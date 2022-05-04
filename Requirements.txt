@@ -1,0 +1,11 @@
+1. Python as programming language
+
+2. Pandas for data cleaning
+
+3. Matplotlib for data visualization
+
+4. sklearn for model building
+
+5. python flask for bankend server
+
+6. html css JS for website
